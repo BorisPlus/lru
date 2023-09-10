@@ -1,6 +1,6 @@
 # Алгоритм LRU-кэширования
 
-![Go Report Card](https://goreportcard.com/badge/github.com/BorisPlus/lru)](https://goreportcard.com/report/github.com/BorisPlus/lru)
+![Go Report Card](https://goreportcard.com/badge/github.com/BorisPlus/lru)
 
 Переработано [решение](https://github.com/BorisPlus/OTUS-Go-2023-03/blob/master/hw04_lru_cache/REPORT.md) из [домашнего задания](https://github.com/BorisPlus/OTUS-Go-2023-03/blob/master/hw04_lru_cache/README.md).
 
