@@ -1,6 +1,7 @@
 # Алгоритм LRU-кэширования
 
-<a href="https://goreportcard.com/badge/github.com/BorisPlus/lru">![Go Report Card](https://goreportcard.com/badge/github.com/BorisPlus/lru)</a>
+<a href="https://goreportcard.com/badge/github.com/BorisPlus/lru"> ![Go Report Card](https://goreportcard.com/badge/github.com/BorisPlus/lru) </a>
+
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/BorisPlus/lru)](https://goreportcard.com/badge/github.com/BorisPlus/lru)
 
